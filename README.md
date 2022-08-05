@@ -2,7 +2,10 @@
 # Principais comandos git
 
 $ git init ==> Inicializar um novo repositório
+<br />
 $ git clone ==> Clonar um repositório remoto
+<br />
+
 $ git add ==> Adicionar novos arquivos
 $ git commit ==> Adicionar novas alterações no projeto
 $ git pull ==> Buscar mudanças
